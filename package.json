@@ -16,10 +16,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/home-assistant/homebridge-homeassistant.git"
+    "url": "git://github.com/krystoff/homebridge-homeassistant.git"
   },
   "bugs": {
-    "url": "http://github.com/home-assistant/homebridge-homeassistant/issues"
+    "url": "http://github.com/krystoff/homebridge-homeassistant/issues"
   },
   "engines": {
     "node": ">=4.3.2",
